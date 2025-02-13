@@ -1,0 +1,1 @@
+This repository contains a Content-Based Filtering Recommender System designed to provide personalized recommendations by analyzing the intrinsic attributes of items. Unlike collaborative filtering—which relies on user interactions—this approach focuses on the content of items (such as textual descriptions, metadata, or keywords) to recommend similar items to users.
